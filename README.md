@@ -77,8 +77,8 @@ Detailed methodology: [`web/methodology.html`](web/methodology.html).
 
 ```bash
 # 1. Clone + install
-git clone https://github.com/Moonkeemoo/polyscalp.git
-cd polyscalp
+git clone https://github.com/Moonkeemoo/shipship.git
+cd shipship
 bun install
 
 # 2. Configure
